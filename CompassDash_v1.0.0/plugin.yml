@@ -2,4 +2,4 @@ name: CompassDash
 main: kametan\CompassDash
 version: 1.0.0
 author: kametan0730mc
-api: [3.0.0-ALPHA10]
+api: [3.0.0-ALPHA11]
